@@ -52,6 +52,12 @@ button {
   margin: 0 auto;
 }
 
+@media only screen and (max-device-width: 1024px) {
+	button {
+    font-size: 150%;
+	}
+}
+
 #result {
   text-align: center;
   vertical-align: middle;
