@@ -43,6 +43,7 @@ button {
   background: #f06226;
   border: 0;
   color: white;
+  font-size: 130%;
   padding: 10px 15px;
   cursor: pointer;
   /*display: flex; 
