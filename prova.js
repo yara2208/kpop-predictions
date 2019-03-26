@@ -25,7 +25,7 @@ var predictions = [
   "sm will debut nct antarctica, line up: 10 penguins wearing wigs",
   "park bom will have a nice and peaceful life, not a prediction just my heartfelt wish for her",
   "pristin will become a bowling team",
-  "gugudan wil try genres never touched by kpop before, like power noise and progressive bluegrass",
+  "gugudan will try genres never touched by kpop before, like power noise and progressive bluegrass",
   "oh my girl will learn how to wield swords for their next comeback",
   "chungha will be the first idol to say 'yeet'",
   "jk rowling will write a song for snsd",
